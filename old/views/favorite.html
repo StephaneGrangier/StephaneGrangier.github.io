@@ -1,0 +1,23 @@
+<p>This is the Favorite view.</p>
+
+
+
+<div class"description">
+  <ul>
+
+    <li ng-repeat="film in listeMovieFavorite track by $index">
+       <a ng-href="#/film/{{film.id}}">{{film.title}}</a>
+
+       <img ng-src="{{film.poster_path | urlPoster}}" alt="posterFct" />
+
+     
+    {{film.id}}
+    
+       <a ng-click="removeFavorite(film.id)" ng-show="isFavorite(film.id)"> <span class="glyphicon glyphicon-star-empty"> </a>
+
+
+
+    </li>  <!-- limiter les elements limiTo-->
+
+  </ul>
+</div>

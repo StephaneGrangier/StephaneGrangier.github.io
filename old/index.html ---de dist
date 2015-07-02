@@ -1,4 +1,4 @@
-<!doctype html> <html class="no-js"> <head> <meta charset="utf-8"> <title></title> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel="stylesheet" href="styles/vendor.20d7f4e6.css"> <link rel="stylesheet" href="styles/main.681379f8.css">  <!--pour carousel
+<!doctype html> <html class="no-js"> <head> <meta charset="utf-8"> <title></title> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel="stylesheet" href="styles/vendor.20d7f4e6.css"> <link rel="stylesheet" href="styles/main.91ae11ee.css">  <!--pour carousel
 <link rel="stylesheet" href="bower_components/slick-carousel/slick/slick.css">  
 <link rel="stylesheet" href="bower_components/slick-carousel/slick/slick-theme.css">
 <script src="bower_components/jquery/jquery.js"></script>
@@ -13,4 +13,4 @@
        }(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
        ga('create', 'UA-XXXXX-X');
-       ga('send', 'pageview');</script> <script src="scripts/vendor.df07cd14.js"></script> <script src="scripts/scripts.2ca4aec0.js"></script>  
+       ga('send', 'pageview');</script> <script src="scripts/vendor.69f5f304.js"></script> <script src="scripts/scripts.78a57e27.js"></script>  
